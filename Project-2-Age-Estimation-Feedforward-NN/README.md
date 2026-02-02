@@ -71,3 +71,11 @@ To run the notebook:
 2. Install any missing packages (if needed).
 3. Run the notebook cells in order.
 4. Verify results (training curves, evaluation output, and gradient check outputs).
+5. ## Notebook Rendering Notice
+
+GitHub may display the notebook as **"Invalid Notebook"** due to missing embedded attachments created during interactive execution.
+
+The notebook is fully functional and can be viewed by:
+- Downloading the `.ipynb` file
+- Opening it locally in Jupyter Notebook or Google Colab
+
